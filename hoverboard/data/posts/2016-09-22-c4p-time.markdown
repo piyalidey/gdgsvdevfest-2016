@@ -13,7 +13,7 @@ To keep up this year, we decided to focus on the content. **We’re looking for 
 
 ### Why is it cool to be a speaker?
 
-Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal](http://bit.ly/df16-c4p).
+Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal](https://docs.google.com/forms/d/e/1FAIpQLSdbyS5xQHFLKDWUe9qnCi-grB3QcBkFqk7Qufmz0KsDdy8PsA/viewform).
 
 1. **It is good for your career.** By being a speaker, you are proving your level of expertise to a potential business partners or employers.
 2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
@@ -48,7 +48,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 **Call for Papers will stay open until October 20th, 2016.** Don’t miss out :)
 
 <div class="text-center">
-<a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyS5xQHFLKDWUe9qnCi-grB3QcBkFqk7Qufmz0KsDdy8PsA/viewform" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
 </a>
 </div>
