@@ -104,7 +104,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://www.eventbrite.com/e/devfest-west-2016-tickets-28134010583",
     "elements": [
       {
         "name": "early-bird",
@@ -176,6 +176,16 @@
       "url": "https://www.linkedin.com/groups/67627"
     }
   ],
+  "gallery": {
+    "albumUrl": "https://plus.google.com/photos/107299704799906781285/albums/6225267644626135953?authkey=COyx8M-Vz_LasAE",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
   "location": {
     "apiKey": "",
     "link": "",
