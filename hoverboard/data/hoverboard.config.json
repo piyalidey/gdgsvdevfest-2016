@@ -130,6 +130,7 @@
         "currency": "USD",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
         "soldOut": false
       }
     ]
