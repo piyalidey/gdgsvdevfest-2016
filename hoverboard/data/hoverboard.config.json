@@ -113,7 +113,7 @@
         "starts": "early-bird-starts",
         "ends": "early-bird-ends",
         "info": "early-bird-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "mid-morning",
