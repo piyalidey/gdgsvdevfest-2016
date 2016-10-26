@@ -275,6 +275,44 @@
               "link": "https://plus.google.com/+EtienneCaron"
         }
     ]
+  },
+  "9": {
+      "id": 9,
+      "featured": true,
+      "name": "Hernan Liendo",
+      "company": "BotMaker",
+      "photoUrl": "/images/people/HernanLiendo.jpeg",
+      "shortBio": "As an engineering professor Hernan helped hundred of students study the prestigious course. With his new startup he humanizes interactions between brands and consumer.",
+      "bio": "+20 years' experience in IT, working with corporations, as well as being the co-founder of Mindset, ZupCat and later BotMaker. In his role as an engineering professor at two of the major Universities in Buenos Aires, he's helped hundred of students study the prestigious course. Hernan has designed games used by more than 13 million users worldwide on the Google Cloud Platform. These high quality games have been co-produced with some of the top publishers in Asia, Europe and North America. In his current startup, BotMaker, Hernan is working with an amazing team using IA to humanize interactions between brands and consumers.",
+      "tags": [
+          "Cloud Platform",
+          "Mobile Apps",
+          "Massive Games"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/hernan-liendo"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "http://ar.linkedin.com/in/hernanliendo"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/hernanliendo"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+HernanLiendo"
+        }
+    ]
   }
 
 }
