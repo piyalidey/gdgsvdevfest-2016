@@ -9,6 +9,11 @@ Start the development Server
 This command serves the app at http://localhost:8080 and provides basic URL routing for the app:
 `polymer serve`
 
+Build
+`polymer build`
+
+Deploy
+`firebase deploy`
 
 ## Location
 https://gdgsv-devfest-2016.firebaseapp.com/
