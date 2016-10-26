@@ -42,6 +42,7 @@
         "id": 2,
         "featured": true,
         "name": "Uri Shaked",
+        "company": "BlackBerry",
         "photoUrl": "/images/people/uri-shaked.jpg",
         "shortBio": "Uri Shaked is a Google Developer Expert for Web Technologies.",
         "bio": "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing.",
@@ -80,6 +81,7 @@
         "featured": true,
         "name": "Jake Wharton",
         "photoUrl": "/images/people/Jake_Wharton.png",
+        "company": "Square",
         "shortBio": "Jake Wharton is an Android developer at Square working on Square Cash.",
         "bio": "Jake Wharton is an Android developer at Square working on Square Cash. He has been living with a severe allergy to boilerplate code and bad APIs for years and speaks at conferences all around the world in an effort to educate more about this terrible disease.",
         "tags": [
