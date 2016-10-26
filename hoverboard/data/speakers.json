@@ -2,17 +2,317 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "TBD",
-        "title": "To be announced",
+        "name": "S. P. T. Krishnan",
+        "photoUrl": "/images/people/sptkrishnan.jpg",
+        "company": "PwC",
+        "shortBio": "Krishnan is a Google Developer Expert in Google Cloud Platform. He has co-authored the book: Building Your Next Big Thing with Google Cloud Platform",
+        "bio": "Krishnan is a Google Developer Expert in Google Cloud Platform. He has co-authored the book: Building Your Next Big Thing with Google Cloud Platform, which is the first book that comprehensively covers Google Cloud Platform. The book was launched at Google IO 2015 in May 2015 and more information is available at https://bit.ly/cloudplatformbook. He also created a new undergraduate course “Cloud Computing: business case and technical models” for a private university. Krishnan is also a co-founder of Google Developer Group in Singapore.Krishnan is a seasoned professional with 16+ years of industry experience in multiple IT domains. Earlier, Krishnan has completed his PhD (Computer Engineering) & MS (Computer Science) from National University of Singapore, Singapore and Bachelor of Engineering (Electronics & Communication) from University of Madras, India. ",
         "tags": [
             "Cloud",
+            "Information Systems Security",
             "Compute Engine",
-            "gRPC",
-            "Firebase",
-            "Android",
-            "Maps",
             "Big Data"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/krishnan-s-p-t"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "http://bit.ly/sptkrishnan"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/sptkrishnan"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/+KrishnanSPT"
+            }
         ]
-
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Uri Shaked",
+        "photoUrl": "/images/people/uri-shaked.jpg",
+        "shortBio": "Uri Shaked is a Google Developer Expert for Web Technologies.",
+        "bio": "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing.",
+        "tags": [
+            "Firebase Specialized",
+            "Angular",
+            "Javascript"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/uri-shaked"
+            }
+        ],
+        "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://il.linkedin.com/in/urishaked"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/urishaked"
+          },
+          {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+UriShaked"
+          }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Jake Wharton",
+        "photoUrl": "/images/people/Jake_Wharton.png",
+        "shortBio": "Jake Wharton is an Android developer at Square working on Square Cash.",
+        "bio": "Jake Wharton is an Android developer at Square working on Square Cash. He has been living with a severe allergy to boilerplate code and bad APIs for years and speaks at conferences all around the world in an effort to educate more about this terrible disease.",
+        "tags": [
+            "Library and API Design",
+            "Application Architecture",
+            "Testing and Automation"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/jake-wharton"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jakewharton"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/JakeWharton"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+JakeWharton"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Mark Mandel",
+        "company": "Google",
+        "photoUrl": "/images/people/MarkMandel.jpg",
+        "shortBio": "Mark Mandel is a Developer Advocate for Google Cloud Platform and one half of the Google Cloud Platform Podcast.",
+        "bio": "Mark Mandel is a Developer Advocate for Google Cloud Platform and one half of the Google Cloud Platform Podcast. Hailing from Australia, Mark built his career developing backend systems for over 15 years and authoring and contributing to several widely adopted open source projects. When he’s not building infrastructure in the cloud, he’s constantly looking for new and interesting things he can do with Docker containers, playing with his dog and reading too much fantasy literature.",
+        "tags": [
+            "Google Cloud Platform",
+            "Polyglot FTW",
+            "Clojure",
+            "Go"
+        ],
+        "socials": [
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/Neurotic"
+          },
+          {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+MarkMandelDev"
+          }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Alyssa Nicoll",
+        "company": "WeaveUp",
+        "photoUrl": "/images/people/AlyssaNicoll.jpeg",
+        "shortBio": "I am an energetic, über passionate developer. I am a Google Developer Expert.",
+        "bio": "I am an energetic, über passionate developer. I am a Google Developer Expert, Web Dev at WeaveUp and I have some Front-End and Angular courses on Code School. I love to learn new things and then share them with others. I Scuba Dive and have a toothless dog named 'Gummy'. My name is Alyssa, come talk sometime.",
+        "tags": [
+            "Angular Enthusiast",
+            "Web Dev",
+            "Ruby on Rails",
+            "JavaScript"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/alyssa-nicoll"
+            }
+        ],
+        "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/alyssa-nicoll-16988b71"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/AlyssaNicoll"
+          },
+          {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+AlyssaNicollcodes"
+          }
+      ]
+  },
+  "6": {
+      "id": 6,
+      "featured": true,
+      "name": "Jaminy Prabaharan",
+      "company": "WeaveUp",
+      "photoUrl": "/images/people/JaminyPrabaharan.jpeg",
+      "shortBio": "I am an open source proponent and enthusiastic in finding the technological solutions for the needy people",
+      "bio": "A technological speaker and an undergraduate student with an ability to work on projects within the time limit. A strong enthusiastic in finding the technological solutions for the needy people. Worked on some interesting technological projects for Hackathons within 24 hours of time. Presented three of them in three international conferences. An open source enthusiastic as well.",
+      "tags": [
+          "Open Source"
+      ],
+      "socials": [
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/JaminyPrabahara"
+        }
+    ]
+  },
+  "7": {
+      "id": 7,
+      "featured": true,
+      "name": "David Cifuentes",
+      "company": "Zalando SE",
+      "photoUrl": "/images/people/DavidCifuentes.jpeg",
+      "shortBio": "I am a Software Engineer at Zalando SE and Google Developer Expert (GDE) for Google Cloud.",
+      "bio": "David is a Software Engineer at Zalando SE and Google Developer Expert (GDE) for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from advertising tech to enterprise software and IoT. In his spare time he learns German and enjoys travelling, running and road cycling.",
+      "tags": [
+          "App Engine",
+          "Cloud Datastore",
+          "Cloud Computing",
+          "Python",
+          "Java"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/david-cifuentes"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dcifuen/"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/dcifuen"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+DavidCifuentesC"
+        }
+    ]
+  },
+  "8": {
+      "id": 8,
+      "featured": true,
+      "name": "Etienne Caron",
+      "company": "Shopify",
+      "photoUrl": "/images/people/EtienneCaron.jpeg",
+      "shortBio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify.",
+      "bio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify. Etienne has been an active member of the Android developer community in Montreal since 2010, and regularly devotes his time to mentoring startups, developers and students in the mobile space. Mentoring has included various subjects, such as client-server architecture, Android design patterns, continuous integration, software development methodologies and general software design. As part of the Montreal Android GDG, he organises meet-ups, hackathons, and gives regular talks on Android-related subjects. Previously, Etienne worked on projects ranging from high-availability stock trading software platforms, all the way to large scale municipal bike sharing systems (London’s cycle Hire amongst others). He lives in Montreal with his wife and daughter, and speaks French and English fluently.",
+      "tags": [
+          "Mobile Development",
+          "Client-Server Architecture",
+          "Embedded Software Development",
+          "Software Design"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/etienne-carons"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://ca.linkedin.com/in/etcaron"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/kanawish"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+EtienneCaron"
+        }
+    ]
+  },
+  "9": {
+      "id": 9,
+      "featured": true,
+      "name": "Hernan Liendo",
+      "company": "BotMaker",
+      "photoUrl": "/images/people/HernanLiendo.jpeg",
+      "shortBio": "As an engineering professor Hernan helped hundred of students study the prestigious course. With his new startup he humanizes interactions between brands and consumer.",
+      "bio": "+20 years' experience in IT, working with corporations, as well as being the co-founder of Mindset, ZupCat and later BotMaker. In his role as an engineering professor at two of the major Universities in Buenos Aires, he's helped hundred of students study the prestigious course. Hernan has designed games used by more than 13 million users worldwide on the Google Cloud Platform. These high quality games have been co-produced with some of the top publishers in Asia, Europe and North America. In his current startup, BotMaker, Hernan is working with an amazing team using IA to humanize interactions between brands and consumers.",
+      "tags": [
+          "Cloud Platform",
+          "Mobile Apps",
+          "Massive Games"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/hernan-liendo"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "http://ar.linkedin.com/in/hernanliendo"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/hernanliendo"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+HernanLiendo"
+        }
+    ]
   }
+
 }
