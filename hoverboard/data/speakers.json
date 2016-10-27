@@ -185,7 +185,7 @@
       "featured": true,
       "name": "Jaminy Prabaharan",
       "company": "WeaveUp",
-      "photoUrl": "/images/people/JaminyPrabaharan.jpeg",
+      "photoUrl": "/images/people/JaminyPrabaharan_1.jpg",
       "shortBio": "I am an open source proponent and enthusiastic in finding the technological solutions for the needy people",
       "bio": "A technological speaker and an undergraduate student with an ability to work on projects within the time limit. A strong enthusiastic in finding the technological solutions for the needy people. Worked on some interesting technological projects for Hackathons within 24 hours of time. Presented three of them in three international conferences. An open source enthusiastic as well.",
       "tags": [
@@ -315,6 +315,127 @@
               "link": "https://plus.google.com/+HernanLiendo"
         }
     ]
+  },
+  "10": {
+      "id": 10,
+      "featured": true,
+      "name": "Keith Smyth",
+      "company": "Groupon",
+      "photoUrl": "/images/people/keithsmyth.jpg",
+      "shortBio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years.",
+      "bio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years. Before Android Keith has worked with C#.Net, the birthplace of RX and one of the primary adopters of great unit tests, MVVM and data binding.",
+      "tags": [
+          "Android",
+          "Mobile Apps",
+          "Data bindings"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/keithsmyth"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/keithsmyth"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+keithsmythprofile"
+        }
+    ]
+  },
+  "11": {
+      "id": 11,
+      "featured": true,
+      "name": "Kevin Nilson",
+      "company": "Google",
+      "photoUrl": "/images/people/KevinNilson.png",
+      "shortBio": "Kevin works at Google as the the team lead of the Chromecast Technical Solutions Engineer team. Kevin is a Java Champion and three-time JavaOne Rock Star",
+      "bio": "Kevin works at Google as the the team lead of the Chromecast Technical Solutions Engineer team. Kevin is a Java Champion and three-time JavaOne Rock Star. Kevin has spoken at conferences such as JavaOne, Devoxx, O’Reilly Fluent, NFJS SpringOne, JAX, Silicon Valley Code Camp, HTML5DevConf, On Android and AjaxWorld. Kevin is the co-author of 'Web 2.0 Fundamentals' In the past, Kevin was an adjunct professor at the College of San Mateo. Kevin holds a MS and BS in Computer Science from Southern Illinois University. Kevin is the leader of the Silicon Valley Java User Group, Silicon Valley Google Developer Group, Silicon Valley JavaScript Meetup and Devoxx4Kids Bay Area.",
+      "tags": [
+          "Chromecast",
+          "Google Home",
+          "Java",
+          "Android"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/kevinnilson"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/javaclimber"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+KevinNilson"
+        }
+    ]
+  },
+  "12": {
+      "id": 12,
+      "featured": true,
+      "name": "Andy Nilson",
+      "photoUrl": "/images/people/AndyNilson.jpg",
+      "shortBio": "Andy is an 11-year-old boy who grew up with coding. He has presented at JavaOne Kids Day and OSCON Kids day, and has been in the JavaOne Keynote.",
+      "bio": "Andy is an 11-year-old boy who grew up with coding. He has presented at JavaOne Kids Day and OSCON Kids day, and has been in the JavaOne Keynote.",
+      "tags": [
+          "Mindcraft",
+          "Java",
+          "Android"
+      ],
+      "socials": [
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/andy_nilson"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+AndyNilson123"
+        }
+    ]
+  },
+  "13": {
+      "id": 13,
+      "featured": true,
+      "name": "Terry Ryan",
+      "company": "Google",
+      "photoUrl": "/images/people/TerrenceRyan.jpg",
+      "shortBio": "erry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back.",
+      "bio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back. He is passionate about web standards and wants to bring web developers to the Google Cloud Platform. Before Google, he worked for Adobe and the Wharton School of Business. He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology.  ",
+      "tags": [
+          "Google Cloud Platform",
+          "Google App Engine",
+          "Web Applications",
+          "Cloud Computing"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/terrencepryan"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tpryan"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+TerrenceRyan"
+        }
+    ]
   }
+
 
 }
