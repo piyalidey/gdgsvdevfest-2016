@@ -315,6 +315,38 @@
               "link": "https://plus.google.com/+HernanLiendo"
         }
     ]
+  },
+  "10": {
+      "id": 10,
+      "featured": true,
+      "name": "Keith Smyth",
+      "company": "Groupon",
+      "photoUrl": "/images/people/keithsmyth.jpg",
+      "shortBio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years.",
+      "bio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years. Before Android Keith has worked with C#.Net, the birthplace of RX and one of the primary adopters of great unit tests, MVVM and data binding.",
+      "tags": [
+          "Android",
+          "Mobile Apps",
+          "Data bindings"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/keithsmyth"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/keithsmyth"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+keithsmythprofile"
+        }
+    ]
   }
+
 
 }
