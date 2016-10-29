@@ -410,7 +410,7 @@
       "name": "Terry Ryan",
       "company": "Google",
       "photoUrl": "/images/people/TerrenceRyan.jpg",
-      "shortBio": "erry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back.",
+      "shortBio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back.",
       "bio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back. He is passionate about web standards and wants to bring web developers to the Google Cloud Platform. Before Google, he worked for Adobe and the Wharton School of Business. He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology.  ",
       "tags": [
           "Google Cloud Platform",
@@ -435,7 +435,123 @@
               "link": "https://plus.google.com/+TerrenceRyan"
         }
     ]
+  },
+  "14": {
+      "id": 14,
+      "featured": true,
+      "name": "Jessica Parsons",
+      "company": "Girl Develop It",
+      "photoUrl": "/images/people/JessicaParsons.jpeg",
+      "shortBio": "Jessica has spent half her life teaching, and a quarter of it developing for the web.",
+      "bio": "Jessica Parsons has spent half her life teaching, and a quarter of it developing for the web. Recently, she decided to combine these passions and teach web development with Girl Develop It, JobTrain, and other organizations in the area. Outside of work, she enjoys decorating wedding cakes, sewing clothing, fixing anything, and hiking with her partner and their two shibas, Petunia and Monty.",
+      "tags": [
+          "Firebase",
+          "Maps",
+          "Progressive Web Applications"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/verythorough"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/VeryThorough"
+        }
+    ]
+  },
+  "16": {
+      "id": 16,
+      "featured": true,
+      "name": "Abraham Williams",
+      "company": "Bendyworks",
+      "photoUrl": "/images/people/AbrahamWilliams.jpg",
+      "shortBio": "An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.",
+      "bio": "An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.  A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.",
+      "tags": [
+          "REST APIs",
+          "Social Integration",
+          "Web Applications",
+          "Python",
+          "JavaScript",
+          "MongoDB"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/abraham-williams"
+          }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/abraham"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+AbrahamWilliams"
+        }
+      ]
+  },
+  "17": {
+      "id": 17,
+      "featured": true,
+      "name": "Yonatan Levin",
+      "company": "Bendyworks",
+      "photoUrl": "/images/people/YonatanLevin.jpg",
+      "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.",
+      "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field. Yonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts. His primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :) Founded and led 3 startups in the past, recently received funding for his new startup which is on the make. Currently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+      "tags": [
+          "Performance",
+          "UI/UX",
+          "Architecture",
+          "Startups",
+          "Public Speaking"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/yonatan-levin"
+          }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/parahall"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+YonatanLevin"
+        }
+      ]
+  },
+  "18": {
+      "id": 18,
+      "featured": true,
+      "name": "Siamak Ashrafi",
+      "company": "ZoeWave.com",
+      "photoUrl": "/images/people/Ash.jpg",
+      "shortBio": "CTO @ ZoeWave building physiologically intelligent clothing (technology patents) and a researcher @ TDI working on medical biomarkers.",
+      "bio": "CTO @ ZoeWave building physiologically intelligent clothing (technology patents) and a researcher @ TDI working on medical biomarkers (publications / presentations). His frequent code-a-thon wins have gone on to become published Apps (iOS & Android). As a thought leader in wearable and mobile development, he is an enthusiastic author, teacher and speaker helping promote the ecosystem (fashion & technology). You can also catch him DJing or competing in three phases of H2O (Snow / Surf / Kite - boarding).",
+      "tags": [
+          "Mobile Development",
+          "Wearables",
+          "Apps (iOS & Android)"
+      ],
+      "socials": [
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+SiamakAshrafi"
+        }
+      ]
   }
-
-
 }
