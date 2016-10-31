@@ -1,7 +1,75 @@
 {
-    "999": {
-        "id": 999,
-        "title": "TBD",
-        "description": "TBD"
-    }
+  "101": {
+      "id": 101,
+      "title": "Lunch",
+      "description": "Foooooooood!",
+      "image": "/images/backgrounds/lunch.jpg"
+  },
+  "102": {
+      "id": 102,
+      "title": "Registration & morning Coffee",
+      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "image": "/images/backgrounds/registration.jpg"
+  },
+  "103": {
+      "id": 103,
+      "title": "Coffee Break",
+      "description": "Re-energize",
+      "image": "/images/backgrounds/registration.jpg"
+  },
+  "201": {
+    "id": 201,
+    "title": "Hands on with Cloud Dataproc and Cloud Bigtable",
+    "description": "In this presentation cum code lab, the presenter, a google cloud platform authorized instructor, will be delivering selected modules and labs from a new course being developed by Google Cloud Platform team called CPB201 – Cloud Bigtable and Cloud Dataproc.
+    Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools (Spark, Pig, Hive and Hadoop) for batch processing, querying, streaming, and machine learning. Cloud Bigtable is Google’s NoSQL Big Data database service designed to power massive workloads that requires consistent low latency and high throughout. As such Big Table is powers core Google’s products such as Gmail, Search.
+    The agenda for this code lab looks as follows
+      1. Introduction to Google Cloud Dataproc (25 min)
+      2. Dataproc Lab 1, Part 1 (15 min)
+      3. Dataproc Lab 1, Part 2 (35 min)
+      4. Introduction to Cloud Bigtable  (20 min)
+      5. Bigtable Lab 1 (35 min)",
+    "speakers": [
+      1
+    ],
+    "language": "English",
+    "tags": [
+      "Google Compute Platform"
+    ]
+  },
+  "203": {
+    "id": 203,
+    "title": "Knock knock! Who's there? Doze.",
+    "description": "Doze mode is just around the corner. Introduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz With the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. He should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running. With the new Doze mode, you require to adapt your app architecture to the new reality. On this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+    "speakers": [
+      17
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  },
+  "202": {
+    "id": 202,
+    "title": "Progressive Web Apps and the Internet of Things",
+    "description": "It is time to get out of your web browser boundaries! With a new technology 'Web Bluetooth', our Progressive Web Apps are finally able to communicate directly with Physical Devices and control them. Whether it is a heart-rate sensor, a BB-8 robot, or your smart refrigerator - Web Bluetooth got you covered. In this talk, we will learn the basics of the underlying Bluetooth Low Energy technology, then cover the Web Bluetooth APIs, and finally engage in a live demo where we will control a Smart Light Bulb, as well as a cute 3D-printed Robot, directly from a web page.",
+    "speakers": [
+      2
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  },
+  "209": {
+    "id": 209,
+    "title": "Making Retrofit 2 Work For You",
+    "description": "Retrofit's recently-released version 2 is the easiest way to do HTTP in your applications. Once set up, Retrofit is designed to make declaring endpoints as simple as a method on an interface with annotations. Behind that simplicity, though, there is a lot of power and knowing how to use and configure it can make even the most problematic APIs easy to use.",
+    "speakers": [
+      3
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  }
 }
