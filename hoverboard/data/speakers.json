@@ -553,5 +553,44 @@
           "link": "https://plus.google.com/+SiamakAshrafi"
         }
       ]
+  },
+  "19": {
+      "id": 19,
+      "featured": true,
+      "name": "Effie Barak",
+      "company": "Udemy",
+      "photoUrl": "/images/people/EffieBarak.jpg",
+      "shortBio": "Effie works at Udemy as a Senior Android developer on the mobile team, responsible for the Android app development",
+      "bio": "I work at Udemy as a Senior Android developer on the mobile team, responsible for the Android app development and leading the development of the Android TV prototype. I began working as a C# developer 10 years ago. I became a mobile developer 4 years ago, and released many Windows and Windows Phone apps. After moving to San Francisco in 2013, I worked for Slack on the Windows Phone app.",
+      "tags": [
+          "Mobile Development",
+          "Android"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/CodingChick"
+        }
+      ]
+  },
+  "20": {
+      "id": 20,
+      "featured": true,
+      "name": "Josh Gordon",
+      "company": "Google",
+      "photoUrl": "/images/people/JoshGordon.jpg",
+      "shortBio": "Josh Gordon works on TensorFlow at Google. He loves teaching and computer science education.",
+      "bio": "Josh Gordon works on TensorFlow at Google. He loves teaching and computer science education. You can find him on Twitter at @random_forests, and on YouTube at Google Developers.",
+      "tags": [
+          "TensorFlow"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/random_forests"
+        }
+      ]
   }
 }
