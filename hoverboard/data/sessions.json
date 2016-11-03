@@ -3,7 +3,7 @@
       "id": 101,
       "title": "Lunch",
       "description": "Foooooooood!",
-      "image": "/images/backgrounds/lunch.jpg"
+      "image": "/images/backgrounds/registration.jpg"
   },
   "102": {
       "id": 102,
@@ -20,7 +20,7 @@
   "201": {
     "id": 201,
     "title": "Hands on with Cloud Dataproc and Cloud Bigtable",
-    "description": "In this presentation cum code lab, the presenter, a google cloud platform authorized instructor, will be delivering selected modules and labs from a new course being developed by Google Cloud Platform team called CPB201 – Cloud Bigtable and Cloud Dataproc. Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools (Spark, Pig, Hive and Hadoop) for batch processing, querying, streaming, and machine learning. Cloud Bigtable is Google’s NoSQL Big Data database service designed to power massive workloads that requires consistent low latency and high throughout. As such Big Table is powers core Google’s products such as Gmail, Search. \nThe agenda for this code lab looks as follows \n1. Introduction to Google Cloud Dataproc (25 min) \n2. Dataproc Lab 1, Part 1 (15 min) \n3. Dataproc Lab 1, Part 2 (35 min) \n4. Introduction to Cloud Bigtable  (20 min) \n5. Bigtable Lab 1 (35 min)",
+    "description": "In this presentation code lab, the presenter, a google cloud platform authorized instructor, will be delivering selected modules and labs from a new course being developed by Google Cloud Platform team called CPB201 – Cloud Bigtable and Cloud Dataproc. Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools (Spark, Pig, Hive and Hadoop) for batch processing, querying, streaming, and machine learning. Cloud Bigtable is Google’s NoSQL Big Data database service designed to power massive workloads that requires consistent low latency and high throughout. As such Big Table is powers core Google’s products such as Gmail, Search. \nThe agenda for this code lab looks as follows \n1. Introduction to Google Cloud Dataproc (25 min) \n2. Dataproc Lab 1, Part 1 (15 min) \n3. Dataproc Lab 1, Part 2 (35 min) \n4. Introduction to Cloud Bigtable  (20 min) \n5. Bigtable Lab 1 (35 min)",
     "speakers": [
       1
     ],
@@ -146,7 +146,7 @@
     ],
     "language": "English",
     "tags": [
-      "General"
+      "Machine Learning"
     ]
   },
   "212": {
