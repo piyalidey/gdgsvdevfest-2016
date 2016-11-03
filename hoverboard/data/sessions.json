@@ -1,7 +1,164 @@
 {
-    "999": {
-        "id": 999,
-        "title": "TBD",
-        "description": "TBD"
-    }
+  "101": {
+      "id": 101,
+      "title": "Lunch",
+      "description": "Foooooooood!",
+      "image": "/images/backgrounds/lunch.jpg"
+  },
+  "102": {
+      "id": 102,
+      "title": "Registration & morning Coffee",
+      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "image": "/images/backgrounds/registration.jpg"
+  },
+  "103": {
+      "id": 103,
+      "title": "Coffee Break",
+      "description": "Re-energize",
+      "image": "/images/backgrounds/registration.jpg"
+  },
+  "201": {
+    "id": 201,
+    "title": "Hands on with Cloud Dataproc and Cloud Bigtable",
+    "description": "In this presentation cum code lab, the presenter, a google cloud platform authorized instructor, will be delivering selected modules and labs from a new course being developed by Google Cloud Platform team called CPB201 – Cloud Bigtable and Cloud Dataproc. Cloud Dataproc is a managed Spark and Hadoop service that lets you take advantage of open source data tools (Spark, Pig, Hive and Hadoop) for batch processing, querying, streaming, and machine learning. Cloud Bigtable is Google’s NoSQL Big Data database service designed to power massive workloads that requires consistent low latency and high throughout. As such Big Table is powers core Google’s products such as Gmail, Search. \nThe agenda for this code lab looks as follows \n1. Introduction to Google Cloud Dataproc (25 min) \n2. Dataproc Lab 1, Part 1 (15 min) \n3. Dataproc Lab 1, Part 2 (35 min) \n4. Introduction to Cloud Bigtable  (20 min) \n5. Bigtable Lab 1 (35 min)",
+    "speakers": [
+      1
+    ],
+    "language": "English",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "202": {
+    "id": 202,
+    "title": "Progressive Web Apps and the Internet of Things",
+    "description": "It is time to get out of your web browser boundaries! With a new technology \"Web Bluetooth\", our Progressive Web Apps are finally able to communicate directly with Physical Devices and control them. Whether it is a heart-rate sensor, a BB-8 robot, or your smart refrigerator - Web Bluetooth got you covered. In this talk, we will learn the basics of the underlying Bluetooth Low Energy technology, then cover the Web Bluetooth APIs, and finally engage in a live demo where we will control a Smart Light Bulb, as well as a cute 3D-printed Robot, directly from a web page.",
+    "speakers": [
+      2
+    ],
+    "language": "English",
+    "tags": [
+      "Web"
+    ]
+  },
+  "203": {
+    "id": 203,
+    "title": "Knock knock! Who's there? Doze.",
+    "description": "Doze mode is just around the corner. Introduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz With the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. He should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running. With the new Doze mode, you require to adapt your app architecture to the new reality. On this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+    "speakers": [
+      17
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  },
+  "204": {
+    "id": 204,
+    "title": "Web Components: Lego bricks of the web",
+    "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google’s Polymer.",
+    "speakers": [
+      16
+    ],
+    "language": "English",
+    "tags": [
+      "Web"
+    ]
+  },
+  "205": {
+    "id": 205,
+    "title": "Lightning Talks",
+    "description": "Lightning Talks",
+    "speakers": [
+      18,6,8,10
+    ],
+    "language": "English",
+    "tags": [
+      "General"
+    ]
+  },
+  "206": {
+    "id": 206,
+    "title": "Scalable Realtime Microservices with Kubernetes and gRPC",
+    "description": "Building scalable real time applications is a tricky proposition at the best of times. You have to deal with all the hard problems: device network performance, real-time bidirectional communication, scalable infrastructures and distributed system complexity. \nBy leveraging some popular open source libraries such as Docker, Kubernetes and gRPC, we are able to mitigate many of these issues to quickly build a scalable, real time experience that can be accessed around the world by millions of people. \nDuring this talk, we will look at how gRPC can be used as a performant, real time communication framework that works across platforms such as desktop, mobile and embedded devices as well as over ten languages. We will also combine this with Kubernetes’ powerful ability to orchestrate containers at scale, such that we can handle and coordinating large amounts of traffic.",
+    "speakers": [
+      4
+    ],
+    "language": "English",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "207": {
+    "id": 207,
+    "title": "Playing with ExoPlayer",
+    "description": "In this talk I will talk about our transition from MediaPlayer to ExoPlayer here at Udemy. I will cover the basics of how to start implementing a working ExoPlayer solution that plays MP4s and HLS, and dive further into how we extended ExoPlayer and how we implemented advanced video features with ExoPlayer such as: Background playing, variable speed changes, subtitles, HLS with different play qualities, and manual and automatic playback qualities in both HLS and MP4s.",
+    "speakers": [
+      19
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  },
+  "208": {
+    "id": 205,
+    "title": "Lightning Talks",
+    "description": "Lightning Talks",
+    "speakers": [
+      9,7,11,12,5
+    ],
+    "language": "English",
+    "tags": [
+      "General"
+    ]
+  },
+  "209": {
+    "id": 209,
+    "title": "Making Retrofit 2 Work For You",
+    "description": "Retrofit's recently-released version 2 is the easiest way to do HTTP in your applications. Once set up, Retrofit is designed to make declaring endpoints as simple as a method on an interface with annotations. Behind that simplicity, though, there is a lot of power and knowing how to use and configure it can make even the most problematic APIs easy to use.",
+    "speakers": [
+      3
+    ],
+    "language": "English",
+    "tags": [
+      "Android"
+    ]
+  },
+  "210": {
+    "id": 210,
+    "title": "Serving 30,000,000 Requests an Hour in the Cloud",
+    "description": "You've written an application and now the worst thing that can happen to you has come about - People are using it! You now have load spikes to deal with.  You can scale up to deal with the excess traffic, but what do you do when your load is variable? How do you do that, and stay on budget? \nThis session is a case study on getting an App Engine app to scale to serve 30,000,000 requests an hour.  It will take you through the architecture, the code changes and the technology trade offs to get to that level of traffic.",
+    "speakers": [
+      13
+    ],
+    "language": "English",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "211": {
+    "id": 211,
+    "title": "Intro to TensorFlow",
+    "description": "Deep Learning has led to impressive results in image classification, but can also be used to explore new possibilities in art. In this talk, I'll introduce Deep Learning using examples in TensorFlow, and demo open source code you can use to train your own image classifier, and create your own artwork. At the end, I'll share my favorite educational resources you can use to learn more about machine learning, and of course all about TensorFlow.",
+    "speakers": [
+      20
+    ],
+    "language": "English",
+    "tags": [
+      "General"
+    ]
+  },
+  "212": {
+    "id": 212,
+    "title": "Lessons Learned from My First Progressive Web App",
+    "description": "A nuts-and-bolts discussion of potential challenges and solutions for newcomers interested in building a progressive web app, based on the speaker's experience building her first PWA--a group travel destination mapping app built with Firebase and Google Maps API.",
+    "speakers": [
+      14
+    ],
+    "language": "English",
+    "tags": [
+      "Web"
+    ]
+  }
 }

@@ -1,17 +1,76 @@
 [{
-
   "date": "2016-11-13",
-     "dateReadable": "November 13",
-     "tracks": [{
-         "title": "Crane Beach"
-     }, {
-         "title": "Maxwell Tech"
-     }],
-     "timeslots": [{
-         "startTime": "09:00",
-         "endTime": "17:00",
-         "sessions": [
-               [999]
-          ]
-     }]
+    "dateReadable": "November 13",
+    "tracks": [{
+      "title": "Maxwell Tech"
+    }, {
+      "title": "Crane Beach"
+    }],
+    "timeslots": [{"startTime": "08:30",
+      "endTime": "09:00",
+      "sessions": [
+        [102]
+      ]
+    }, {
+      "startTime": "9:00",
+      "endTime": "9:50",
+      "sessions": [
+        [201],
+        [202]
+      ]
+    },{
+      "startTime": "10:00",
+      "endTime": "10:50",
+      "sessions": [
+        [201],
+        [203]
+      ]
+    },{
+      "startTime": "11:00",
+      "endTime": "11:50",
+      "sessions": [
+        [204],
+        [205]
+      ]
+    },{
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "sessions": [
+        [101]
+      ]
+    },{
+      "startTime": "13:00",
+      "endTime": "13:50",
+      "sessions": [
+        [206],
+        [207]
+      ]
+    },{
+      "startTime": "14:00",
+      "endTime": "14:50",
+      "sessions": [
+        [208],
+        [209]
+      ]
+    },{
+      "startTime": "15:00",
+      "endTime": "15:15",
+      "sessions": [
+        [103]
+      ]
+    },{
+      "startTime": "15:15",
+      "endTime": "16:05",
+      "sessions": [
+        [210],
+        [211]
+      ]
+    },{
+      "startTime": "16:10",
+      "endTime": "17:00",
+      "sessions": [
+        [212],
+        [211]
+      ]
+    }]
 }]
