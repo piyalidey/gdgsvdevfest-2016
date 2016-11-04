@@ -91,14 +91,14 @@
   },
   "207": {
     "id": 207,
-    "title": "Playing with ExoPlayer",
-    "description": "In this talk I will talk about our transition from MediaPlayer to ExoPlayer here at Udemy. I will cover the basics of how to start implementing a working ExoPlayer solution that plays MP4s and HLS, and dive further into how we extended ExoPlayer and how we implemented advanced video features with ExoPlayer such as: Background playing, variable speed changes, subtitles, HLS with different play qualities, and manual and automatic playback qualities in both HLS and MP4s.",
+    "title": "TBD",
+    "description": "",
     "speakers": [
-      19
+      0
     ],
     "language": "English",
     "tags": [
-      "Android"
+      "General"
     ]
   },
   "208": {
