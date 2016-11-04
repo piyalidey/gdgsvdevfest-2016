@@ -58,7 +58,7 @@
     "title": "Web Components: Lego bricks of the web",
     "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google’s Polymer.",
     "speakers": [
-      16
+      16,21
     ],
     "language": "English",
     "tags": [
