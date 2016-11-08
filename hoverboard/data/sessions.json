@@ -91,14 +91,14 @@
   },
   "207": {
     "id": 207,
-    "title": "TBD",
-    "description": "",
+    "title": "Connecting People, Industries and things",
+    "description": "Internet of Things is on everyone's lips, but it is hard to get started and as a web developer, it might mean getting to get into native development (iOS, Android, device), but it doesn't necessarily need to be like that. With Web Bluetooth, Progressive Web Apps and JavaScript on devices, it is quite easy to get started. This presentation will look at why these technologies make sense and how they can let you become the next big inventor!",
     "speakers": [
-      0
+      22
     ],
     "language": "English",
     "tags": [
-      "General"
+      "IOT"
     ]
   },
   "208": {

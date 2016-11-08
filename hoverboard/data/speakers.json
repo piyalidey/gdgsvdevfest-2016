@@ -189,13 +189,27 @@
       "shortBio": "I am an open source proponent and enthusiastic in finding the technological solutions for the needy people",
       "bio": "A technological speaker and an undergraduate student with an ability to work on projects within the time limit. A strong enthusiastic in finding the technological solutions for the needy people. Worked on some interesting technological projects for Hackathons within 24 hours of time. Presented three of them in three international conferences. An open source enthusiastic as well.",
       "tags": [
-          "Open Source"
+          "Python",
+            "C++",
+            "Robotics",
+            "Micro controllers",
+            "Real Time Communication"
       ],
       "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://lk.linkedin.com/in/jaminy-prabaharan-3a393672"
+        },
         {
             "icon": "twitter",
             "name": "Twitter",
             "link": "https://twitter.com/JaminyPrabahara"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/u/0/101230155737372254402"
         }
     ]
   },
@@ -596,6 +610,44 @@
           "icon": "gplus",
           "name": "Google+",
           "link": "https://plus.google.com/113160844823182235300"
+        }
+      ]
+  },
+  "22": {
+      "id": 22,
+      "featured": true,
+      "name": "Kenneth Rohde Christiansen",
+      "company": "Intel Corporation",
+      "photoUrl": "/images/people/kennethchristiansen.png",
+      "shortBio": "Kenneth is a Danish software engineer and architect, specialized in mobile and web technology.",
+      "bio": "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel's strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Currently working on Progressive Web Apps and emerging web standards like Web App Manifest, Generic Sensors, Web NFC etc.",
+      "tags": [
+          "IOT",
+          "Web Technology",
+          "Polymer"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/kenneth-rohde-christiansen"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://dk.linkedin.com/in/kenneth-rohde-christiansen-a3495521"
+        },
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/kennethrohde"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+KennethRohdeChristiansen"
         }
       ]
   }
