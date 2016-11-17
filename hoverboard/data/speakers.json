@@ -180,39 +180,6 @@
           }
       ]
   },
-  "6": {
-      "id": 6,
-      "featured": true,
-      "name": "Jaminy Prabaharan",
-      "company": "WeaveUp",
-      "photoUrl": "/images/people/JaminyPrabaharan_1.jpg",
-      "shortBio": "I am an open source proponent and enthusiastic in finding the technological solutions for the needy people",
-      "bio": "A technological speaker and an undergraduate student with an ability to work on projects within the time limit. A strong enthusiastic in finding the technological solutions for the needy people. Worked on some interesting technological projects for Hackathons within 24 hours of time. Presented three of them in three international conferences. An open source enthusiastic as well.",
-      "tags": [
-          "Python",
-            "C++",
-            "Robotics",
-            "Micro controllers",
-            "Real Time Communication"
-      ],
-      "socials": [
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link": "https://lk.linkedin.com/in/jaminy-prabaharan-3a393672"
-        },
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/JaminyPrabahara"
-        },
-        {
-              "icon": "gplus",
-              "name": "Google+",
-              "link": "https://plus.google.com/u/0/101230155737372254402"
-        }
-    ]
-  },
   "7": {
       "id": 7,
       "featured": true,
